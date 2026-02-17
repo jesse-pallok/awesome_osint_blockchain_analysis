@@ -190,6 +190,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 ### ETH Other
 | Link | Description |
 | --- | --- |
+| [Bluepages.fyi](https://bluepages.fyi) | Social account ↔ Ethereum address lookup. Maps Twitter/X and Farcaster accounts to ETH addresses by aggregating 12 public data sources. 800K+ accounts, 1.4M+ addresses. Pay-per-query via API or wallet. |
 | [Chat Blockscan](https://chat.blockscan.com/index) | A chat based on Ethereum blockchain, useful to reach an ens domain or address owner |
 | [CriminalIP](https://www.criminalip.io/login?h=/asset/search?query=%22Ethereum%22%20port:%208545)|  It'a a infrstructure scanner. It scans ip and services, there is a section related to miner services exposed online |
 | [Naddison36](https://github.com/naddison36/tx2uml) | Ethereum transaction to UML sequence diagram generator |
@@ -201,6 +202,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Paxful](https://paxful.com/it/user/XXX) | An exchange that, starting from a given nickname, let you explore users and info related to them.
 | [Onchain.industries](https://www.onchain.industries/) | A tool for identifying possible related addressed registered on different blockchain platform, it supports different modules for L1 and L2 blockchains
 | [Cielo](https://app.cielo.finance/) | A tool for tracking and monitoring EVM wallets
+
 
 ## <img src="https://cryptologos.cc/logos/monero-xmr-logo.png" alt="monero" style="width:25px;" width="25" height="25" /> [](#monero)MONERO - XMR
 
